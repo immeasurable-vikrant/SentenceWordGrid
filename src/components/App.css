@@ -1,0 +1,38 @@
+.grid-container {
+  display: grid;
+  grid-row-gap: 0px;
+  padding: 10px;
+}
+
+.grid-item {
+ 
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  grid-row-gap: 40px;
+  padding: 20px;
+  font-size: 20px;
+  text-align: center;
+}
+
+
+.btn-div {
+  display: inline;
+  margin: 10px; 
+}
+
+.doom {
+  background-color: #51a8c7;
+  color: white;
+  border: none;
+  width: 130px;
+  height: 40px;
+}
+
+.btn-correct {
+background-color: green;
+color: white;
+border: none;
+width: 130px;
+height: 40px;
+}
+
+
